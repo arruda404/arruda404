@@ -1,5 +1,5 @@
 # 💫 Me:
-🔭 Atualmente, estou trabalhando com Engenharia de Dados e como Analista de I.A. <br> Estou buscando colaborar em desenvolvimentos com Python, I.A. e ML. <br> 🤝 Também estou buscando ajuda com Ciência de Dados e desenvolvimento avançado de LLMs. <br><br> 💬 Pergunte-me sobre APIs, Streamlit, Dash e agentes de I.A. em aplicações. <br> ⚡ Curiosidade: já trabalhei com fotografia edição de videos.<br> Algumas empresas para as quais já prestei serviçosna area de teecnologia incluem Transpetro, Netflix, Amazon e Microsoft.
+🔭 Atualmente, estou trabalhando com Engenharia de Dados e como Analista de I.A. <br> Estou buscando colaborar em desenvolvimentos com Python, I.A. e ML. <br> 🤝 Também estou buscando ajuda com Ciência de Dados e desenvolvimento avançado de LLMs. <br> 💬 Pergunte-me sobre APIs, Streamlit, Dash e agentes de I.A. em aplicações. <br> ⚡ Curiosidade: já trabalhei com fotografia edição de videos.<br> Algumas empresas para as quais já prestei serviços na area de tecnologia incluem Transpetro, Netflix, Amazon e Microsoft.
 
 
 # 💻 Tech Stack:
